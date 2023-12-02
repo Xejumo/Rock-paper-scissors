@@ -1,4 +1,4 @@
-package com.example.rock.paper.scissors;
+package com.example.rock.paper.scissors.rps;
 
 public class GameRound {
     private final Move userMove;

@@ -1,5 +1,8 @@
 package com.example.rock.paper.scissors;
 
+import com.example.rock.paper.scissors.rps.Game;
+import com.example.rock.paper.scissors.rps.Player;
+
 import java.util.Scanner;
 
 public class RockPaperScissorsApplication {
